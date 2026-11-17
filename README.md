@@ -1,4 +1,4 @@
-# CortexDesk AI (OpenAI Agents SDK)
+# Chief of Staff (OpenAI Agents SDK)
 
 A multi-agent virtual Chief of Staff for a CEO: manages email, prepares meeting briefs, runs
 research, tracks strategic goals and tasks, and produces executive summaries, with human
