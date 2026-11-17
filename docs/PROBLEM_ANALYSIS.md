@@ -1,4 +1,4 @@
-# Problem Analysis: AI Chief of Staff
+# Problem Analysis: CortexDesk AI 
 
 ## Business context
 A CEO of a fast-growing company loses hours every day to inbox triage, meeting prep, ad-hoc
