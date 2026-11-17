@@ -1,4 +1,4 @@
-# CortexDesk AI — Demo Script (about 7 minutes)
+# Demo Script (about 7 minutes)
 
 Run: `python -m chief_of_staff.main`
 
