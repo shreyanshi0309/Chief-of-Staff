@@ -4,6 +4,8 @@ A multi-agent virtual Chief of Staff for a CEO: manages email, prepares meeting 
 research, tracks strategic goals and tasks, and produces executive summaries, with human
 approval for critical actions. Built for the Summer School '26 capstone (Agents SDK track, project 1).
 
+![chief-of-staff-AI-Hub](chief-of-staff-AI-Hub.png)
+
 ## Quick start
 ```bash
 python -m venv .venv && source .venv/bin/activate
